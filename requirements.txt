@@ -1,0 +1,7 @@
+winsdk>=1.0.0b10
+pycaw>=20240210
+uiautomation>=2.0.20
+requests>=2.32.0,<3
+OpenCC==1.4.2
+py3langid==0.4.0
+LDDC @ git+https://github.com/chenmozhijin/LDDC.git@84631e8cd011fcc3f71ca0ae017e2c9758958ffc

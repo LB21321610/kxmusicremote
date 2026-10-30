@@ -1,0 +1,2290 @@
+{
+  "captured_at_utc": "2026-10-29T23:34:59.267234+00:00",
+  "source_sha256": "3dc3bd66dbca78652199ab1f3078288ea48d5e289a91410d0e3ec9581bf065af",
+  "source_lines": {
+    "_app_windows": 1605,
+    "_is_main_window": 1615,
+    "_window": 1624,
+    "_transport_button": 1812,
+    "_queue_list": 1920,
+    "_queue_panel_state": 1934,
+    "_set_queue_panel": 1944,
+    "_queue_entries": 1959,
+    "_queue_revision": 1973,
+    "_track_matches": 2021,
+    "_queue_track_matches": 2035,
+    "_confirm_playback": 2045,
+    "_confirm_queue_play": 2070,
+    "lyric_metadata": 2389,
+    "_lyric_normalize": 2402
+  },
+  "scope": "Read-only diagnosis; no playback/volume commands; queue panel restored. Functions extracted via AST, production module not imported.",
+  "status_before": {
+    "ok": true,
+    "loaded": true,
+    "title": "HEAVEN",
+    "artist": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+    "lyric_artist": "The Kid LAROI",
+    "album": "THE FIRST TIME (DELUXE VERSION)",
+    "playing": true,
+    "pos": 77.893585,
+    "timeline_sample": "2026-10-29T23:34:58.392784+00:00",
+    "sample_age_ms": 61.99999999989814,
+    "processing_ms": 61.99999999989814,
+    "position_precision_ms": 1000,
+    "dur": 174.0,
+    "vol": 100,
+    "muted": false,
+    "lyric_settings": {
+      "ok": true,
+      "lyric_offset": -0.8,
+      "revision": 8
+    }
+  },
+  "http_queue": {
+    "ok": true,
+    "items": [
+      {
+        "t": "HER INTERLUDE",
+        "a": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+        "d": "2:23"
+      },
+      {
+        "t": "COME DOWN",
+        "a": "The Kid LAROI — BEFORE I FORGET",
+        "d": "2:23"
+      },
+      {
+        "t": "I Can't Go Back To The Way It Was (Intro)",
+        "a": "The Kid LAROI — I Can't Go Back To The Way It Was (Intro) - Single",
+        "d": "1:35"
+      },
+      {
+        "t": "BABY I'M BACK",
+        "a": "􀂝",
+        "d": "2:51"
+      },
+      {
+        "t": "PICK SIDES",
+        "a": "􀂝",
+        "d": "2:52"
+      },
+      {
+        "t": "A COLD PLAY",
+        "a": "The Kid LAROI — BEFORE I FORGET",
+        "d": "2:59"
+      },
+      {
+        "t": "ALWAYS DO",
+        "a": "􀂝",
+        "d": "2:32"
+      },
+      {
+        "t": "SORRY",
+        "a": "􀂝",
+        "d": "3:13"
+      },
+      {
+        "t": "GIRLS",
+        "a": "􀂝",
+        "d": "2:33"
+      },
+      {
+        "t": "THOUSAND MILES",
+        "a": "􀂝",
+        "d": "2:45"
+      },
+      {
+        "t": "DESERVE YOU",
+        "a": "􀂝",
+        "d": "2:38"
+      },
+      {
+        "t": "JULY",
+        "a": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+        "d": "2:40"
+      },
+      {
+        "t": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+        "a": "􀂝",
+        "d": "2:25"
+      },
+      {
+        "t": "STICK WITH ME",
+        "a": "􀂝",
+        "d": "2:32"
+      },
+      {
+        "t": "DYING ON THIS HILL",
+        "a": "􀂝",
+        "d": "2:42"
+      },
+      {
+        "t": "ME + YOU",
+        "a": "􀂝",
+        "d": "2:55"
+      },
+      {
+        "t": "NEED YOU MOST (So Sick)",
+        "a": "􀂝",
+        "d": "2:15"
+      },
+      {
+        "t": "Goodbye",
+        "a": "􀂝",
+        "d": "2:42"
+      },
+      {
+        "t": "NOT FAIR (feat. Corbin)",
+        "a": "􀂝",
+        "d": "2:47"
+      },
+      {
+        "t": "PICK SIDES",
+        "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION) [Explicit]",
+        "d": "2:52"
+      }
+    ],
+    "revision": "0913a63dd5804b31df915773c4a8c39d62cdc9bdded35da4c106217e15e525b0"
+  },
+  "window": {
+    "name": "Apple Music",
+    "pid": 26100
+  },
+  "panel_initial": 0,
+  "queue_automation_id": "PlayQueueListView",
+  "rows": [
+    {
+      "type": "ListItemControl",
+      "name": "HER INTERLUDE The Kid LAROI — BEFORE I FORGET (DELUXE) 2 分钟，23 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "HER INTERLUDE The Kid LAROI — BEFORE I FORGET (DELUXE) 2 分钟，23 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "HER INTERLUDE",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:23",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "COME DOWN The Kid LAROI — BEFORE I FORGET 2 分钟，23 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "COME DOWN The Kid LAROI — BEFORE I FORGET 2 分钟，23 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "COME DOWN",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — BEFORE I FORGET",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:23",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "I Can't Go Back To The Way It Was (Intro) The Kid LAROI — I Can't Go Back To The Way It Was (Intro) - Single 1 分钟，35 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "I Can't Go Back To The Way It Was (Intro) The Kid LAROI — I Can't Go Back To The Way It Was (Intro) - Single 1 分钟，35 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "I Can't Go Back To The Way It Was (Intro)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — I Can't Go Back To The Way It Was (Intro) - Single",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "1:35",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "BABY I'M BACK The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，51 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "BABY I'M BACK The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，51 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "BABY I'M BACK",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:51",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "PICK SIDES The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，52 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "PICK SIDES The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，52 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "PICK SIDES",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:52",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "A COLD PLAY The Kid LAROI — BEFORE I FORGET 2 分钟，59 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "A COLD PLAY The Kid LAROI — BEFORE I FORGET 2 分钟，59 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "A COLD PLAY",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — BEFORE I FORGET",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:59",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "ALWAYS DO The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，32 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "ALWAYS DO The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，32 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "ALWAYS DO",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:32",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "SORRY The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 3 分钟，13 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "SORRY The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 3 分钟，13 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "SORRY",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "3:13",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "GIRLS The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，33 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "GIRLS The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，33 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "GIRLS",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:33",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "THOUSAND MILES The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，45 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "THOUSAND MILES The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，45 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "THOUSAND MILES",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:45",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "DESERVE YOU The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，38 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "DESERVE YOU The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，38 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "DESERVE YOU",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:38",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "JULY The Kid LAROI — BEFORE I FORGET (DELUXE) 2 分钟，40 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "JULY The Kid LAROI — BEFORE I FORGET (DELUXE) 2 分钟，40 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "JULY",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:40",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly) The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，25 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly) The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，25 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:25",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "STICK WITH ME The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，32 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "STICK WITH ME The Kid LAROI — THE FIRST TIME (DELUXE VERSION) 2 分钟，32 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "STICK WITH ME",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:32",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "DYING ON THIS HILL The Kid LAROI — BEFORE I FORGET (DELUXE) 2 分钟，42 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "DYING ON THIS HILL The Kid LAROI — BEFORE I FORGET (DELUXE) 2 分钟，42 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "DYING ON THIS HILL",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:42",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "ME + YOU The Kid LAROI — BEFORE I FORGET 2 分钟，55 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "ME + YOU The Kid LAROI — BEFORE I FORGET 2 分钟，55 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "ME + YOU",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — BEFORE I FORGET",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:55",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "NEED YOU MOST (So Sick) The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，15 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "NEED YOU MOST (So Sick) The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，15 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "NEED YOU MOST (So Sick)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:15",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "Goodbye The Kid LAROI — The Party Never Ends 2.0 2 分钟，42 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "Goodbye The Kid LAROI — The Party Never Ends 2.0 2 分钟，42 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "Goodbye",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — The Party Never Ends 2.0",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:42",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "NOT FAIR (feat. Corbin) The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，47 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "NOT FAIR (feat. Corbin) The Kid LAROI — F*CK LOVE 3+: OVER YOU 2 分钟，47 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "NOT FAIR (feat. Corbin)",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "􀂝",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:47",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ListItemControl",
+      "name": "PICK SIDES The Kid LAROI — THE FIRST TIME (DELUXE VERSION) [Explicit] 2 分钟，52 秒钟",
+      "automation_id": "",
+      "class_name": "ListViewItem",
+      "children": [
+        {
+          "type": "GroupControl",
+          "name": "PICK SIDES The Kid LAROI — THE FIRST TIME (DELUXE VERSION) [Explicit] 2 分钟，52 秒钟",
+          "automation_id": "ItemSwipeContainer",
+          "class_name": "NamedContainerAutomationPeer",
+          "children": [
+            {
+              "type": "ImageControl",
+              "name": "",
+              "automation_id": "StaticArtwork",
+              "class_name": "Image",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "PICK SIDES",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION) [Explicit]",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            },
+            {
+              "type": "TextControl",
+              "name": "2:52",
+              "automation_id": "",
+              "class_name": "TextBlock",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "panel_final": 0,
+  "row_analysis": [
+    {
+      "parsed_item": {
+        "t": "HER INTERLUDE",
+        "a": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+        "d": "2:23"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "HER INTERLUDE",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:23",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": []
+    },
+    {
+      "parsed_item": {
+        "t": "COME DOWN",
+        "a": "The Kid LAROI — BEFORE I FORGET",
+        "d": "2:23"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "COME DOWN",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — BEFORE I FORGET",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:23",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": []
+    },
+    {
+      "parsed_item": {
+        "t": "I Can't Go Back To The Way It Was (Intro)",
+        "a": "The Kid LAROI — I Can't Go Back To The Way It Was (Intro) - Single",
+        "d": "1:35"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "I Can't Go Back To The Way It Was (Intro)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — I Can't Go Back To The Way It Was (Intro) - Single",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "1:35",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": []
+    },
+    {
+      "parsed_item": {
+        "t": "BABY I'M BACK",
+        "a": "􀂝",
+        "d": "2:51"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "BABY I'M BACK",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:51",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "BABY I'M BACK",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 171,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "BABY I'M BACK",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "2:51"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "PICK SIDES",
+        "a": "􀂝",
+        "d": "2:52"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "PICK SIDES",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:52",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "PICK SIDES",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 172,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "PICK SIDES",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "2:52"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "A COLD PLAY",
+        "a": "The Kid LAROI — BEFORE I FORGET",
+        "d": "2:59"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "A COLD PLAY",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — BEFORE I FORGET",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:59",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": []
+    },
+    {
+      "parsed_item": {
+        "t": "ALWAYS DO",
+        "a": "􀂝",
+        "d": "2:32"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "ALWAYS DO",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:32",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "ALWAYS DO",
+          "artist": "The Kid LAROI",
+          "album": "F*CK LOVE 3+: OVER YOU",
+          "duration": 152,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "ALWAYS DO",
+          "a": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "d": "2:32"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "SORRY",
+        "a": "􀂝",
+        "d": "3:13"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "SORRY",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "3:13",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "SORRY",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 193,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "SORRY",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "3:13"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "GIRLS",
+        "a": "􀂝",
+        "d": "2:33"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "GIRLS",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:33",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "GIRLS",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 153,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "GIRLS",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "2:33"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "THOUSAND MILES",
+        "a": "􀂝",
+        "d": "2:45"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "THOUSAND MILES",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:45",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "THOUSAND MILES",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 165,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "THOUSAND MILES",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "2:45"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "DESERVE YOU",
+        "a": "􀂝",
+        "d": "2:38"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "DESERVE YOU",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:38",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "DESERVE YOU",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 158,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "DESERVE YOU",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "2:38"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "JULY",
+        "a": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+        "d": "2:40"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "JULY",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:40",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": []
+    },
+    {
+      "parsed_item": {
+        "t": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+        "a": "􀂝",
+        "d": "2:25"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:25",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+          "artist": "The Kid LAROI",
+          "album": "F*CK LOVE 3+: OVER YOU",
+          "duration": 145,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "F*CK YOU, GOODBYE (feat. Machine Gun Kelly)",
+          "a": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "d": "2:25"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "STICK WITH ME",
+        "a": "􀂝",
+        "d": "2:32"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "STICK WITH ME",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:32",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "STICK WITH ME",
+          "artist": "The Kid LAROI",
+          "album": "THE FIRST TIME (DELUXE VERSION)",
+          "duration": 152,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "STICK WITH ME",
+          "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+          "d": "2:32"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "DYING ON THIS HILL",
+        "a": "􀂝",
+        "d": "2:42"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "DYING ON THIS HILL",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:42",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "DYING ON THIS HILL",
+          "artist": "The Kid LAROI",
+          "album": "BEFORE I FORGET (DELUXE)",
+          "duration": 162,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "DYING ON THIS HILL",
+          "a": "The Kid LAROI — BEFORE I FORGET (DELUXE)",
+          "d": "2:42"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "ME + YOU",
+        "a": "􀂝",
+        "d": "2:55"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "ME + YOU",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — BEFORE I FORGET",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:55",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "ME + YOU",
+          "artist": "The Kid LAROI",
+          "album": "BEFORE I FORGET",
+          "duration": 175,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "ME + YOU",
+          "a": "The Kid LAROI — BEFORE I FORGET",
+          "d": "2:55"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "NEED YOU MOST (So Sick)",
+        "a": "􀂝",
+        "d": "2:15"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "NEED YOU MOST (So Sick)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:15",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "NEED YOU MOST (So Sick)",
+          "artist": "The Kid LAROI",
+          "album": "F*CK LOVE 3+: OVER YOU",
+          "duration": 135,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "NEED YOU MOST (So Sick)",
+          "a": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "d": "2:15"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "Goodbye",
+        "a": "􀂝",
+        "d": "2:42"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "Goodbye",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — The Party Never Ends 2.0",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:42",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "Goodbye",
+          "artist": "The Kid LAROI",
+          "album": "The Party Never Ends 2.0",
+          "duration": 162,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "Goodbye",
+          "a": "The Kid LAROI — The Party Never Ends 2.0",
+          "d": "2:42"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "NOT FAIR (feat. Corbin)",
+        "a": "􀂝",
+        "d": "2:47"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "NOT FAIR (feat. Corbin)",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:47",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": [
+        {
+          "type": "TextControl",
+          "name": "􀂝",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": [],
+          "codepoints": [
+            "U+10009D"
+          ]
+        }
+      ],
+      "matching_probe": {
+        "basis": "Synthetic SMTC snapshot using true metadata in this captured row; no real playback activation",
+        "snapshot": {
+          "title": "NOT FAIR (feat. Corbin)",
+          "artist": "The Kid LAROI",
+          "album": "F*CK LOVE 3+: OVER YOU",
+          "duration": 167,
+          "position": 0,
+          "playing": true
+        },
+        "current_parser_matches": false,
+        "true_metadata_matches": true,
+        "true_metadata_item": {
+          "t": "NOT FAIR (feat. Corbin)",
+          "a": "The Kid LAROI — F*CK LOVE 3+: OVER YOU",
+          "d": "2:47"
+        }
+      }
+    },
+    {
+      "parsed_item": {
+        "t": "PICK SIDES",
+        "a": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION) [Explicit]",
+        "d": "2:52"
+      },
+      "direct_texts": [
+        {
+          "type": "TextControl",
+          "name": "PICK SIDES",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION) [Explicit]",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        },
+        {
+          "type": "TextControl",
+          "name": "2:52",
+          "automation_id": "",
+          "class_name": "TextBlock",
+          "children": []
+        }
+      ],
+      "icon_controls": []
+    }
+  ],
+  "isolated_confirmation_probe": {
+    "result": "reproduced failure",
+    "err": "尚未确认切换成功，请检查 Apple Music 当前歌曲后重试"
+  },
+  "status_after": {
+    "ok": true,
+    "loaded": true,
+    "title": "HEAVEN",
+    "artist": "The Kid LAROI — THE FIRST TIME (DELUXE VERSION)",
+    "lyric_artist": "The Kid LAROI",
+    "album": "THE FIRST TIME (DELUXE VERSION)",
+    "playing": true,
+    "pos": 80.690146,
+    "timeline_sample": "2026-10-29T23:35:01.459643+00:00",
+    "sample_age_ms": 77.99999999951979,
+    "processing_ms": 77.99999999951979,
+    "position_precision_ms": 1000,
+    "dur": 174.0,
+    "vol": 100,
+    "muted": false,
+    "lyric_settings": {
+      "ok": true,
+      "lyric_offset": -0.8,
+      "revision": 8
+    }
+  },
+  "source_unchanged": true
+}

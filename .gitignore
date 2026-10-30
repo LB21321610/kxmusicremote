@@ -1,0 +1,35 @@
+.venv/
+.runtime/
+runtime-firewall-result.json
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.private.json
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm
+.remote-translation-process.json
+ollama-launch.log
+ollama-launch-error.log
+# This PC only: network details, runtime state and logs
+network.local.psd1
+network-before.json
+network-result.json
+server.log
+server-error.log
+server.pid
+@AutomationLog.txt
+Check-ProjectPaths.ps1
+/*.json
+# Local history: backups, diffs, dev notes and test evidence
+backups/
+*.diff
+/*.md
+!/README.md
+!/THIRD_PARTY.md
+tests/artifacts/*
+!tests/artifacts/queue-artist-diagnosis-20261029.json
+.claude/
