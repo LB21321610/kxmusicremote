@@ -25,14 +25,14 @@
 
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/now-playing.jpg" width="230" alt="正在播放 Now playing"><br><sub>🎧 正在播放 · Now playing</sub></td>
-    <td align="center"><img src="docs/screenshots/motion-artwork.jpg" width="230" alt="动态封面 Motion artwork"><br><sub>🎞️ 动态封面（截图里不动，实际会动 😉）<br>Motion artwork (it moves, trust me)</sub></td>
-    <td align="center"><img src="docs/screenshots/queue.jpg" width="230" alt="待播队列 Up Next"><br><sub>📜 待播队列 · Up Next</sub></td>
+    <td align="center" valign="top"><img src="docs/screenshots/now-playing.jpg" width="230" alt="正在播放 Now playing"><br><sub>🎧 正在播放 · Now playing</sub></td>
+    <td align="center" valign="top"><img src="docs/screenshots/motion-artwork.jpg" width="230" alt="动态封面 Motion artwork"><br><sub>🎞️ 动态封面（截图里不动，实际会动 😉）<br>Motion artwork (it moves, trust me)</sub></td>
+    <td align="center" valign="top"><img src="docs/screenshots/queue.jpg" width="230" alt="待播队列 Up Next"><br><sub>📜 待播队列 · Up Next</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/search.jpg" width="230" alt="曲库搜索 Catalog search"><br><sub>🔍 曲库搜索 · Search</sub></td>
-    <td align="center"><img src="docs/screenshots/album.jpg" width="230" alt="专辑页 Album page"><br><sub>💿 专辑页 · Album</sub></td>
-    <td align="center"><img src="docs/screenshots/artist.jpg" width="230" alt="艺人页 Artist page"><br><sub>🧑‍🎤 艺人页 · Artist</sub></td>
+    <td align="center" valign="top"><img src="docs/screenshots/search.jpg" width="230" alt="曲库搜索 Catalog search"><br><sub>🔍 曲库搜索 · Search</sub></td>
+    <td align="center" valign="top"><img src="docs/screenshots/album.jpg" width="230" alt="专辑页 Album page"><br><sub>💿 专辑页 · Album</sub></td>
+    <td align="center" valign="top"><img src="docs/screenshots/artist.jpg" width="230" alt="艺人页 Artist page"><br><sub>🧑‍🎤 艺人页 · Artist</sub></td>
   </tr>
 </table>
 
